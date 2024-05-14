@@ -15,5 +15,6 @@ LAMENTAMOS SE VOCÊ NÃO TIVER ACESSO A NENHUM REPOSITÓRIO POIS PARA ENTRAR NES
 E-MAIL==> felizola63@gmail.com
 
 
-# AQUI DISCUTIMOS AS IDÉIAS PARA EVOLUIR A LÓGICA DE PROGRAMAÇÃO EM NOSSAS MENTES [Discussôes](https://github.com/orgs/CeliaLandim/discussions).
+# AQUI DISCUTIMOS AS IDÉIAS PARA EVOLUIR A LÓGICA DE PROGRAMAÇÃO EM NOSSAS MENTES  🤖[Discussoes](https://github.com/orgs/CeliaLandim/discussions) 🤖
+
 
