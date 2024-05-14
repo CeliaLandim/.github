@@ -1,12 +1,6 @@
-## Hi there 👋
+# Hi there 👩🏻‍💻👋  - WELCOME TO CELIA LANDIMP-DEVS  👩🏻‍💻👋
 
-<!--
+##🙋‍♀️ A short introduction ==>Esta organização foi criada para comunicação, conteúdos e materias usados no  aprendizado dos alunos do 3-ANO NOVOTEC-204 da EE . CELIA RIBEIRO LANDIM
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
